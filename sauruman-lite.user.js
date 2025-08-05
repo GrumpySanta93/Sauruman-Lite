@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         Sauruman Lite
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  11.06.2025
-// @author       brunfisc
-// @updateURL   https://raw.githubusercontent.com/deinname/tampermonkey-scripts/main/mein-skript.user.js
-// @downloadURL
-// @match        https://flow-sortation-eu.amazon.com/HAJ1/*
-// @grant        none
+// @name           Sauruman Lite
+// @namespace      http://tampermonkey.net/
+// @version        1.0
+// @description    11.06.2025
+// @author         brunfisc
+// @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
+// @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
+// @match          https://flow-sortation-eu.amazon.com/HAJ1/*
+// @grant          none
 // ==/UserScript==
 
 (function () {
@@ -386,3 +386,4 @@
 
 
   })();
+
