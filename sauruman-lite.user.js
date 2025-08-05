@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Sauruman Lite
 // @namespace      http://tampermonkey.net/
-// @version        0.9
+// @version        1.1
 // @description    11.06.2025
 // @author         brunfisc
 // @supportURL   mailto://brunfisc@amazon.de
@@ -387,6 +387,7 @@
 
 
   })();
+
 
 
 
