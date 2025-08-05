@@ -4,6 +4,7 @@
 // @version        0.9
 // @description    11.06.2025
 // @author         brunfisc
+// @supportURL   mailto://brunfisc@amazon.de
 // @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @match          https://flow-sortation-eu.amazon.com/HAJ1/*
@@ -386,5 +387,6 @@
 
 
   })();
+
 
 
