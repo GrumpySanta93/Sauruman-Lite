@@ -3,7 +3,7 @@
 // @namespace      http://tampermonkey.net/
 // @version        1.1.1
 // @description    11.06.2025
-// @author         brunfisc
+// @author         Bruno Ulrich Fischer
 // @supportURL     mailto://brunfisc@amazon.de
 // @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
@@ -387,6 +387,7 @@
 
 
   })();
+
 
 
 
