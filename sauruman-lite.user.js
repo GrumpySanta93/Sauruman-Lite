@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Sauruman Lite
 // @namespace      http://tampermonkey.net/
-// @version        1.0
+// @version        0.9
 // @description    11.06.2025
 // @author         brunfisc
 // @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
@@ -386,4 +386,5 @@
 
 
   })();
+
 
