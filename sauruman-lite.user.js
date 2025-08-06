@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name           Sauruman Lite
 // @namespace      http://tampermonkey.net/
-// @version        1.1.1
+// @version        1.1.2
 // @description    11.06.2025
-// @author         Bruno Ulrich Fischer
+// @author         Bruno Ulrich Fischer (HAJ1)
 // @supportURL     mailto://brunfisc@amazon.de
 // @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
@@ -387,6 +387,7 @@
 
 
   })();
+
 
 
 
