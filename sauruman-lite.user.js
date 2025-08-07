@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Sauruman Lite
 // @namespace      http://tampermonkey.net/
-// @version        1.1.2
+// @version        1.1.3
 // @description    11.06.2025
 // @author         Bruno Ulrich Fischer (HAJ1)
 // @supportURL     mailto://brunfisc@amazon.de
@@ -26,7 +26,7 @@
     const mansortGroup = [
         'dz-P-MANSORT', 'dz-P-COMMONSORT', 'dz-P-COMMONSORT_LOWQTY', 'dz-P-MANSORTTOTE',
         'dz-P-COMMONSORT_20LB_LOWQTY', 'dz-P-COMMONSORT_20LB', 'dz-P-UIS_SIDELINE_TOTE',
-        'dz-P-DECANT', 'vPRIME', 'dz-P-MANSORT_LIQUIDS', 'dz-P-SORT'
+        'dz-P-DECANT', 'dz-P-PRIME', 'dz-P-MANSORT_LIQUIDS', 'dz-P-SORT'
     ];
 
     function extractRouting(msg, groupEnabled) {
@@ -387,6 +387,7 @@
 
 
   })();
+
 
 
 
