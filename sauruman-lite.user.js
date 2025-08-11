@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name           Sauruman Lite
+// @description    The goal is to reduce critical recirculations and support a more balanced sorter load
 // @namespace      http://tampermonkey.net/
-// @version        1.1.4
+// @version        1.1.5
 // @description    11.08.2025
 // @author         Bruno Ulrich Fischer
 // @supportURL     mailto://brunfisc@amazon.de
@@ -387,6 +388,7 @@
 
 
   })();
+
 
 
 
