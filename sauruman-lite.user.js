@@ -9,6 +9,7 @@
 // @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @match          https://flow-sortation-eu.amazon.com/HAJ1/*
+// @require        https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
 // @grant          none
 // ==/UserScript==
 
@@ -388,6 +389,7 @@
 
 
   })();
+
 
 
 
