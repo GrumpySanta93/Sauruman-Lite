@@ -2,14 +2,14 @@
 // @name           Sauruman Lite
 // @description    The goal is to reduce critical recirculations and support a more balanced sorter load
 // @namespace      http://tampermonkey.net/
-// @version        1.1.7
-// @description    11.08.2025
+// @version        1.1.8.2
+// @description    Release day 15.08.2025
 // @author         Bruno Ulrich Fischer (brunfisc) @HAJ1
 // @supportURL     mailto://brunfisc@amazon.de
-// @updateURL      https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
-// @downloadURL    https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
+// @updateURL     https://axzile.corp.amazon.com/-/carthamus/download_script/sauruman-lite.user.js
+// @downloadURL    https://axzile.corp.amazon.com/-/carthamus/download_script/sauruman-lite.user.js
 // @match          https://flow-sortation-eu.amazon.com/HAJ1/*
-// @require        https://github.com/GrumpySanta93/Sauruman-Lite/raw/refs/heads/main/sauruman-lite.user.js
+// @require        https://axzile.corp.amazon.com/-/carthamus/download_script/sauruman-lite.user.js
 // @grant          none
 // ==/UserScript==
 
@@ -389,6 +389,7 @@
 
 
   })();
+
 
 
 
